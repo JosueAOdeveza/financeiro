@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.applicationfinance.app-mergeDebugResources-38:/layout/activity_report.xml",
+        "source": "com.example.applicationfinance.app-main-41:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.example.applicationfinance.app-mergeDebugResources-38:/layout/activity_intro.xml",
+        "source": "com.example.applicationfinance.app-main-41:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.example.applicationfinance.app-mergeDebugResources-38:/layout/viewholder_items.xml",
+        "source": "com.example.applicationfinance.app-main-41:/layout/viewholder_items.xml"
+    },
+    {
+        "merged": "com.example.applicationfinance.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.applicationfinance.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.applicationfinance.app-mergeDebugResources-38:/layout/viewholder_budget.xml",
+        "source": "com.example.applicationfinance.app-main-41:/layout/viewholder_budget.xml"
+    }
+]
